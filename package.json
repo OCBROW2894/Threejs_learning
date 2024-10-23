@@ -1,0 +1,10 @@
+{
+  "name": "Threejs_learning",
+  "version": "1.0.0",
+  "description": "",
+  "main": "basic/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "private": true
+}
